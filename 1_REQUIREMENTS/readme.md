@@ -62,15 +62,19 @@ This program can be executed in a system which has Linux or Windows operating sy
 
 **Strengths :**
 
-
+The strengths include the fact that BMI is cheap and relatively easy to use.
 
 **Weakness :**
 
+The weaknesses include the fact that BMI percentiles are not widely used, and categorization of BMI percentiles may not adequately define risk of comorbid conditions.
 
 **Opportunities :**
 
+He/She will figure out the approximate level of body fat in an easy, inexpensive way.
 
+BMI is a reliable indicator of body fatness for most people. It is used to screen for weight categories that may lead to health problems.
 
 **Threats** :
 
+The main flaw: It's an indirect measure of body fat that doesn't take into account important details about age, sex, bone structure, and fat distribution.
 
