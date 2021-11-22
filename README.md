@@ -1,1 +1,1 @@
-# M1_Application_BMI Calculator
+# M1_Application_BMI_Calculator
