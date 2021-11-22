@@ -11,38 +11,36 @@ The BMI Calculator In C Programming is developed using C Programming Language, I
 - Body Mass Index (BMI), also known as an obesity indicator, can help medical experts determine if their patient is underweight, overweight or obese. The measurement tool is used to find out the excess body fat in an individual using a simple mathematical formula.
 
 **Benefits**
+
 - Body mass index is concerned with measuring your body fat by calculating your height against your weight. With the BMI formula, you can determine if you have the right body weight or if you’re almost obese.
 - The BMI calculator allows you to find out if you’re underweight, normal weight, overweight or obese and at risk of diseases such as cancer and heart problems.
 
-
-
 **Cost and Features**
 
+This app part calculates the Body mass index on the basis of weight & height and shows the Health status whether the person is healthy, over-weight or obese. Features : Shows Body Mass Index along with Health status. Easy to deploy and use App.
 
 
 **4W's and 1'H**
 
 **Who:**
 
-
+- It is used for both men and women, age 18 or older.
 
 **What:**
 
-
+Body Mass Index is a simple calculation using a person's height and weight. The formula is BMI = lbs/in where lbs is a person's weight in Pound and in is their height in Inches squared. A BMI of 25.0 or more is overweight, while the healthy range is 18.5 to 24.9.
 
 **When:**
 
-
+It is widely used as a general indicator of whether a person has a healthy body weight for their height. Specifically, the value obtained from the calculation of BMI is used to categorize whether a person is underweight, normal weight, overweight, or obese depending on what range the value falls between.It is widely used as a general indicator of whether a person has a healthy body weight for their height. Specifically, the value obtained from the calculation of BMI is used to categorize whether a person is underweight, normal weight, overweight, or obese depending on what range the value falls between.
 
 **Where:**
 
-
+It is used by Men, women, students, employees all over the world.
 
 **How:**
 
-
-
-
+This program can be executed in a system which has Linux or Windows operating system.
 
 **High Level Requirements:**
 
