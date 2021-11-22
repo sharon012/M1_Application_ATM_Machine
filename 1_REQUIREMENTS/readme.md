@@ -44,10 +44,19 @@ This program can be executed in a system which has Linux or Windows operating sy
 
 **High Level Requirements:**
 
+|**ID**|**Description**|**Category**|**Status**|
+| :-: | :-: | :-: | :-: |
+|HR01|User shall be able to specify the weight in Pounds|Technical|IMPLEMENTED|
+|HR02|User shall be able to specify the height in Inches|Technical|IMPLEMENTED|
+|HR03|User shall be able to find classsification he/she is underweight, ideal, overweight, obese|Technical|IMPLEMENTED|
 
 **Low level Requirements:**
 
-
+|**ID**|**Description**|**HLR ID**|**Status (Implemented/Future)**|
+| :-: | :-: | :-: | :-: |
+|LR01|User must specify the weight in Pounds.|HR01|IMPLEMENTED|
+|LR02|User must specify the height in Inches|HR02|IMPLEMENTED|
+|LR03|According to the weight and height the app will show the specified classification|HR05|IMPLEMENTED|
 
 **SWOT ANALYSIS**
 
