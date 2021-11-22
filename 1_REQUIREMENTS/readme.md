@@ -46,7 +46,7 @@ This program can be executed in a system which has Linux or Windows operating sy
 
 |**ID**|**Description**|**Category**|**Status**|
 | :-: | :-: | :-: | :-: |
-|HR01|User shall be able to specify the weight in Pounds|Technical|IMPLEMENTED|
+|HR01|User shall be able to specify the weight in Pounds|Technical| IN-PROGRESS|
 |HR02|User shall be able to specify the height in Inches|Technical|IMPLEMENTED|
 |HR03|User shall be able to find classsification he/she is underweight, ideal, overweight, obese|Technical|IMPLEMENTED|
 
