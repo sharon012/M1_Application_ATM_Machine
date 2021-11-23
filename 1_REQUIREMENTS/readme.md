@@ -2,41 +2,42 @@
 
 **Introduction**
 
-The BMI Calculator In C Programming is developed using C Programming Language, In this BMI Formula In C Program calculate your pound and inches and display the output if you are underweight, normal or overweight.
+The term ATM stands for automated teller machine. It is an electronic device that is used by only bank customers to process account transactions. The users access their accounts through a special type of plastic card that is encoded with user information on a magnetic strip.
 
 **Research**
 
 **Objective**
-- A BMI Calculator In C flow,  first the system ask to the user to enter your weight in whole pounds, after that the system ask again to enter your height in whole inches, after you enter that two request the system will display your Body Mass Index and your weight status. either normal, under weight or overweight.
-- Body Mass Index (BMI), also known as an obesity indicator, can help medical experts determine if their patient is underweight, overweight or obese. The measurement tool is used to find out the excess body fat in an individual using a simple mathematical formula.
+
+The project to be designed will control a simulated automated teller machine (ATM) having a magnetic stripe reader for reading an ATM card, a customer console (keyboard and display) for interaction with the customer, a slot for depositing envelopes, a dispenser for cash, a printer for printing customer receipts, and a key-operated switch to allow an operator to start or stop the machine. The ATM will communicate with the bank's computer over an appropriate communication link. Design the ATM system in detail with the architectural design.
 
 **Benefits**
 
-- Body mass index is concerned with measuring your body fat by calculating your height against your weight. With the BMI formula, you can determine if you have the right body weight or if you’re almost obese.
-- The BMI calculator allows you to find out if you’re underweight, normal weight, overweight or obese and at risk of diseases such as cancer and heart problems.
+- Customers are able to do financial transactions conveniently with the use of ATMs. They can avail various banking services and can do payments seating at their home comfort.
+- ATMs provides 24 hours a day, 7 days a week and 365 days a year to all its customers. Unlike bank branches, it does not have any time schedule for its operations. Customers can access their bank accounts and withdraw their money at any time of day or night as per their convenience.
 
 **Cost and Features**
 
-This app part calculates the Body mass index on the basis of weight & height and shows the Health status whether the person is healthy, over-weight or obese. Features : Shows Body Mass Index along with Health status. Easy to deploy and use App.
+By using an automated teller machine or ATM we can perform different financial transactions such as cash deposits, withdrawals, transfer funds, information of account, ATM PIN change, and also linking the Aadhaar number to the bank account so that the interaction between the bank staff and the customer can be reduced.
 
 
 **4W's and 1'H**
 
 **Who:**
 
-- It is used for both men and women, age 18 or older.
+ATM Machine's can be used by anyone with ATM card. Anyone with a credit card or debit card can access cash at ATMs.
 
 **What:**
 
-Body Mass Index is a simple calculation using a person's height and weight. The formula is BMI = lbs/in where lbs is a person's weight in Pound and in is their height in Inches squared. A BMI of 25.0 or more is overweight, while the healthy range is 18.5 to 24.9.
+Automated teller machines (ATMs) are electronic banking outlets that allow people to complete transactions without going into a branch of their bank.
 
 **When:**
 
-It is widely used as a general indicator of whether a person has a healthy body weight for their height. Specifically, the value obtained from the calculation of BMI is used to categorize whether a person is underweight, normal weight, overweight, or obese depending on what range the value falls between.It is widely used as a general indicator of whether a person has a healthy body weight for their height. Specifically, the value obtained from the calculation of BMI is used to categorize whether a person is underweight, normal weight, overweight, or obese depending on what range the value falls between.
+It is a self-service outlet that you can use to withdraw money, check balance or even transfer funds. Different banks provide their ATM services by installing cash machines in different parts of the country.
 
 **Where:**
 
-It is used by Men, women, students, employees all over the world.
+- ATMs can be placed at any location but are most often placed near or inside banks, shopping centers/malls, airports, railway stations, metro stations, grocery stores, petrol/gas stations, restaurants, and other locations. 
+- An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a credit card or debit card can access cash at most ATMs.
 
 **How:**
 
@@ -46,35 +47,42 @@ This program can be executed in a system which has Linux or Windows operating sy
 
 |**ID**|**Description**|**Category**|**Status**|
 | :-: | :-: | :-: | :-: |
-|HR01|User shall be able to specify the weight in Pounds|Technical| IN-PROGRESS|
-|HR02|User shall be able to specify the height in Inches|Technical|IN-PROGRESS|
-|HR03|User shall be able to find classsification he/she is underweight, ideal, overweight, obese|Technical|IN-PROGRESS|
+|HR01|User shall be able to choose one of the options|Technical|IMPLEMENTED|
+|HR02|User shall be able to choose check balance amount|Technical|IMPLEMENTED|
+|HR03|User shall be able to choose deposit money|Technical|IMPLEMENTED|
+|HR04|User shall be able to choose withdraw money|Technical|IMPLEMENTED|
+|HR05|User shall be able to exit the application|Technical|IMPLEMENTED|
 
 **Low level Requirements:**
 
 |**ID**|**Description**|**HLR ID**|**Status (Implemented/Future)**|
 | :-: | :-: | :-: | :-: |
-|LR01|User must specify the weight in Pounds.|HR01|IN-PROGRESS|
-|LR02|User must specify the height in Inches|HR02|IN-PROGRESS|
-|LR03|According to the weight and height the app will show the specified classification|HR05|IN-PROGRESS|
+|LR01|User must choose one of the options |HR01|IMPLEMENTED|
+|LR02|User can choose to check the available balance in the bank account|HR02|IMPLEMENTED|
+|LR03|User can choose to deposit amount into the bank account|HR03|IMPLEMENTED|
+|LR04|User can choose to withdraw amount from the bank account|HR04|IMPLEMENTED|
+|LR05|The user can exit the application if he/she checked balance, deposit money or withdrawed money|HR05|IMPLEMENTED|
 
 **SWOT ANALYSIS**
 
 **Strengths :**
 
-The strengths include the fact that BMI is cheap and relatively easy to use.
+Withdraw cash at any time or in urgent without the help of bank. It ensures privacy to the customers.
 
 **Weakness :**
 
-The weaknesses include the fact that BMI percentiles are not widely used, and categorization of BMI percentiles may not adequately define risk of comorbid conditions.
+The initial amount of the application is fixed and cant be changed by user.
 
 **Opportunities :**
 
-He/She will figure out the approximate level of body fat in an easy, inexpensive way.
+Oppertunity to serve whole world with this application.
 
-BMI is a reliable indicator of body fatness for most people. It is used to screen for weight categories that may lead to health problems.
+Saves time by not going to bank for transactions.
 
 **Threats** :
 
-The main flaw: It's an indirect measure of body fat that doesn't take into account important details about age, sex, bone structure, and fat distribution.
+- Insufficient network security.
+- Insufficient peripheral security.
+- Improper configuration of systems or devices.
+- Vulnerabilities or improper configuration of Application Control.
 
