@@ -42,7 +42,7 @@ An automated teller machine (ATM) is an electronic banking outlet that allows cu
 
 This program can be executed in a system which has Linux or Windows operating system.
 
-**High Level Requirements:
+## High Level Requirements
 
 |**ID**|**Description**|**Category**|**Status**|
 | :-: | :-: | :-: | :-: |
@@ -52,7 +52,7 @@ This program can be executed in a system which has Linux or Windows operating sy
 |HR04|User shall be able to choose withdraw money|Technical|IMPLEMENTED|
 |HR05|User shall be able to exit the application|Technical|IMPLEMENTED|
 
-**Low level Requirements:**
+## Low level Requirements
 
 |**ID**|**Description**|**HLR ID**|**Status (Implemented/Future)**|
 | :-: | :-: | :-: | :-: |
