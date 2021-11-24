@@ -79,7 +79,6 @@ Oppertunity to serve whole world with this application.
 Saves time by not going to bank for transactions.
 
 ## Threats
-
 Insufficient network security.
 Insufficient peripheral security.
 Improper configuration of systems or devices.
