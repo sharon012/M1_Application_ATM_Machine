@@ -68,17 +68,17 @@ This program can be executed in a system which has Linux or Windows operating sy
 
 Withdraw cash at any time or in urgent without the help of bank. It ensures privacy to the customers.
 
-**Weakness :**
+**Weakness**
 
 The initial amount of the application is fixed and cant be changed by user.
 
-**Opportunities :**
+**Opportunities**
 
 Oppertunity to serve whole world with this application.
 
 Saves time by not going to bank for transactions.
 
-**Threats** :
+**Threats**
 
 - Insufficient network security.
 - Insufficient peripheral security.
