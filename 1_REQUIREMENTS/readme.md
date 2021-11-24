@@ -21,24 +21,24 @@ By using an automated teller machine or ATM we can perform different financial t
 
 ## 4W's and 1'H
 
-**Who:**
+## Who:
 
 ATM Machine's can be used by anyone with ATM card. Anyone with a credit card or debit card can access cash at ATMs.
 
-**What:**
+## What:
 
 Automated teller machines (ATMs) are electronic banking outlets that allow people to complete transactions without going into a branch of their bank.
 
-**When:**
+## When:
 
 It is a self-service outlet that you can use to withdraw money, check balance or even transfer funds. Different banks provide their ATM services by installing cash machines in different parts of the country.
 
-**Where:**
+## Where:
 
 - ATMs can be placed at any location but are most often placed near or inside banks, shopping centers/malls, airports, railway stations, metro stations, grocery stores, petrol/gas stations, restaurants, and other locations. 
 - An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a credit card or debit card can access cash at most ATMs.
 
-**How:**
+## How:
 
 This program can be executed in a system which has Linux or Windows operating system.
 
