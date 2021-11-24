@@ -1,4 +1,4 @@
-# TEST PLAN:
+# TEST PLAN
 
 ## Table no: High level test plan
 
@@ -8,7 +8,6 @@
 |  H_02       |tested to check the available balance in the account| 1 |SUCCESS|SUCCESS|Technical   |
 |  H_03       |tested to deposit money to the bank account| 2000| 17000 | SUCCESS |Technical |
 |  H_04       |tested to withdraw money fron the bank account|5000|10000|  SUCCESS |Technical |
-
 
 ## Table no: Low level test plan
 
