@@ -21,7 +21,7 @@ By using an automated teller machine or ATM we can perform different financial t
 
 ## 4W's and 1'H
 
-## Who:
+## Who
 
 ATM Machine's can be used by anyone with ATM card. Anyone with a credit card or debit card can access cash at ATMs.
 
