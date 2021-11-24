@@ -19,8 +19,7 @@ ATMs provides 24 hours a day, 7 days a week and 365 days a year to all its custo
 
 By using an automated teller machine or ATM we can perform different financial transactions such as cash deposits, withdrawals, transfer funds, information of account, ATM PIN change, and also linking the Aadhaar number to the bank account so that the interaction between the bank staff and the customer can be reduced.
 
-
-**4W's and 1'H**
+## 4W's and 1'H
 
 **Who:**
 
