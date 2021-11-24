@@ -12,7 +12,7 @@ The project to be designed will control a simulated automated teller machine (AT
 
 **Benefits**
 
-- Customers are able to do financial transactions conveniently with the use of ATMs. They can avail various banking services and can do payments seating at their home comfort.
+-  Customers are able to do financial transactions conveniently with the use of ATMs. They can avail various banking services and can do payments seating at their home comfort.
 - ATMs provides 24 hours a day, 7 days a week and 365 days a year to all its customers. Unlike bank branches, it does not have any time schedule for its operations. Customers can access their bank accounts and withdraw their money at any time of day or night as per their convenience.
 
 **Cost and Features**
