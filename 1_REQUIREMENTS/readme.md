@@ -62,9 +62,9 @@ This program can be executed in a system which has Linux or Windows operating sy
 |LR04|User can choose to withdraw amount from the bank account|HR04|IMPLEMENTED|
 |LR05|The user can exit the application if he/she checked balance, deposit money or withdrawed money|HR05|IMPLEMENTED|
 
-**SWOT ANALYSIS**
+## SWOT ANALYSIS
 
-**Strengths :**
+**Strengths**
 
 Withdraw cash at any time or in urgent without the help of bank. It ensures privacy to the customers.
 
