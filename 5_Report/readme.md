@@ -66,6 +66,6 @@ Threats: Insufficient network security.Insufficient peripheral security.Improper
 |  L_03       | H_03, H_04 |Tested on deposit money option and withdraw money option|  2,3  |SUCCESS|SUCCESS|Technical |
 
 
-## Output Images:
+
 
 
